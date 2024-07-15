@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include <cmath>
+
 using namespace std;
 int main() {
 	system("chcp 1251");
